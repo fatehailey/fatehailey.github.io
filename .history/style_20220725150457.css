@@ -174,9 +174,7 @@ button:active{
 .column 
 {
     flex: 50%;
-    padding-left: 1rem;
-    padding-right: 16rem;
-    justify-content: space-between;
+    padding: 0 10px 10px;
     display: flex;
     flex-flow: row wrap;
     margin-bottom: 15px;
@@ -191,8 +189,7 @@ button:active{
 }
 .box-container{
 	display:flex;
-	justify-content: space-around;
-    padding: 1rem;
+	justify-content: space-around
 }
 .box-1,.box-2,.box-3{
 	width: 300px;

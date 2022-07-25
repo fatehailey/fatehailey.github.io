@@ -174,9 +174,8 @@ button:active{
 .column 
 {
     flex: 50%;
-    padding-left: 1rem;
-    padding-right: 16rem;
-    justify-content: space-between;
+    padding: 5px 10px 10px;
+    justify-content: sp;
     display: flex;
     flex-flow: row wrap;
     margin-bottom: 15px;
